@@ -12,7 +12,7 @@
   <img align="center" alt="NumPy" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Seaborn" height="40" width="45" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />
   <img align="center" alt="Matplotlib" height="40" width="40" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
-  <img align="center" alt="SciPy" height="40" width="45" src="https://raw.githubusercontent.com/XassassinXsaberX/communication-simulation/master/img/scipy.png" />
+  <img align="center" alt="SciPy" height="40" width="40" src="https://raw.githubusercontent.com/XassassinXsaberX/communication-simulation/master/img/scipy.png" />
   <img align="center" alt="Statsmodels" height="35" width="40" src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" />
   <img align="center" alt="Power BI" height="35" width="35" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
   <img align="center" alt="Tableau" height="35" width="60" src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8" />
