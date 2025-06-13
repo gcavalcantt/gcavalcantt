@@ -10,7 +10,7 @@
   <img align="center" alt="Python" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="SQL" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Power BI" height="50" width="55" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
-  <img align="center" alt="Tableau" height="50" width="55" src="https://www.svgrepo.com/svg/354428/tableau-icon](https://www.svgrepo.com/show/354428/tableau-icon.svg" />
+  <img align="center" alt="Tableau" height="50" width="55" src="https://www.svgrepo.com/svg/354428/tableau-icon](https://www.svgrepo.com/show/354428/tableau-icon.svg](https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" />
   <img align="center" alt="GCP" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Databricks" height="50" width="55" src="https://www.brighttalk.com/wp-content/uploads/2019/07/Databricks-logo-1-300x300.png" />
   <img align="center" alt="Apache Spark" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
