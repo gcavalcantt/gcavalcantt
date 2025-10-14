@@ -12,7 +12,7 @@
   <img align="center" alt="Google Cloud Platform" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Apache Airflow" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
   <img align="center" alt="Git" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Linux" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Scikit-Learn" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" alt="Power BI" height="50" width="55" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
   <img align="center" alt="Tableau" height="50" width="55" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 
